@@ -1,0 +1,28 @@
+name: Versa Vice Creative
+favicon: null
+layout_spectrum: 0.08168039564043283
+typography_spectrum: 0.8612129231914878
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5676272234413773
+  lightness: 0.5508907553739846
+  saturation: 0.6679179708007723
+  rhythmicContrast: 0.5276525297667831
+purpose: []
